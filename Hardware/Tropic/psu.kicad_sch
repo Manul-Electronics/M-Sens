@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "Power Supply")
+    (title "Power Supply and status LED")
     (rev "1.0")
   )
 

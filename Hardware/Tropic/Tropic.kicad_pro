@@ -465,7 +465,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Output Files/Tropic.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -495,7 +495,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "D:\\Manul\\MT_Lib2\\Cartouches\\manul_cartouche.kicad_wks",
-    "plot_directory": "",
+    "plot_directory": "Output Files/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -524,10 +524,6 @@
     [
       "ebc99054-fc1f-4b73-995d-417f24411987",
       "Program Interface"
-    ],
-    [
-      "aa4f8ca5-7edc-44d3-b962-f01b536e103f",
-      "GPIO"
     ]
   ],
   "text_variables": {}

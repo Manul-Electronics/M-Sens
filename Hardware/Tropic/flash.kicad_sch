@@ -5,6 +5,7 @@
   (paper "A4")
 
   (title_block
+    (title "Program Interface")
     (rev "1.0")
   )
 

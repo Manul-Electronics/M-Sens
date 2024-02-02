@@ -156,23 +156,6 @@
     )
   )
 
-  (sheet (at 160.02 54.61) (size 12.7 33.02) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid aa4f8ca5-7edc-44d3-b962-f01b536e103f)
-    (property "Sheetname" "GPIO" (at 160.02 53.8984 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "gpio.kicad_sch" (at 160.02 88.2146 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "Tropic"
-        (path "/03cbb5e4-b4a9-4ace-b6fb-ea1f35182954" (page "6"))
-      )
-    )
-  )
-
   (sheet (at 96.52 59.69) (size 12.7 3.81) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
