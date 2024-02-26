@@ -1,4 +1,4 @@
-21841271671693707
+21854948018528199
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90332,8 +90332,22 @@ manul_tech
 
 
 0
-20
-20
+16
+16
+manul_tech
+643250100308
+
+
+0
+8
+8
+manul_tech
+648103131822
+WR-WTB 1.50mm SMT Male Horizontal Shrouded Header, 3 Pins
+
+0
+5
+5
 manul_tech
 68610414422
 <b>WR-FPC 1.00mm SMT ZIF Horizontal Bottom Contact, 4 Pins
@@ -90404,6 +90418,13 @@ Arduino UNO R3
 0
 32
 32
+manul_tech
+CDRH2D14NP-2R2NC
+
+
+0
+2
+2
 manul_tech
 CON_533091070
 
@@ -90495,6 +90516,13 @@ Commutateur tactile, KSE, A déclencheur supérieur, Montage en surface, Bouton 
 0
 4
 4
+manul_tech
+LED_2214
+
+
+0
+2
+2
 manul_tech
 LED_WS2812C-2020
 
@@ -90594,6 +90622,13 @@ QFN50P300X300X60-17N
 17
 17
 manul_tech
+QFN50P400X400X100-21N
+
+
+0
+21
+21
+manul_tech
 QFN50P500X500X90-33N
 
 
@@ -90650,6 +90685,13 @@ SOIC-8
 8
 8
 manul_tech
+SOIC127P599X175-8N
+
+
+0
+8
+8
+manul_tech
 SOP65P640X120-20N
 
 
@@ -90685,6 +90727,13 @@ SW_B3U-3000P
 2
 2
 manul_tech
+Solder_Pads_03
+
+
+0
+3
+3
+manul_tech
 TS-KG07S
 
 
@@ -90719,6 +90768,13 @@ WS-TASV
 0
 4
 4
+manul_tech
+XCVR_ESP32-C3-WROOM-02U-N4
+
+
+0
+39
+39
 manul_tech
 XCVR_ESP32-WROOM-32E_(16MB)
 
