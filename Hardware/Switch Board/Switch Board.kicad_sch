@@ -1,0 +1,89 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid cf4d5b8c-964c-4533-be8a-d65bf1506e2a)
+
+  (paper "A4")
+
+  (title_block
+    (title "M-Sens - Swich Board")
+    (date "2024-12-19")
+    (rev "1.0")
+    (company "Manul Technologies")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 60.325 46.99) (size 24.13 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2e660dff-6cde-4541-8268-ab2f8e201414)
+    (property "Sheetname" "PSU" (at 60.325 46.2784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "psu.kicad_sch" (at 60.325 78.0546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Switch Board"
+        (path "/cf4d5b8c-964c-4533-be8a-d65bf1506e2a" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 182.245 76.835) (size 27.94 37.465) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 49c4e428-3e3e-4fcf-add6-83d6094a174f)
+    (property "Sheetname" "Switch" (at 182.245 76.1234 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "switch.kicad_sch" (at 182.245 114.8846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Switch Board"
+        (path "/cf4d5b8c-964c-4533-be8a-d65bf1506e2a" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 113.665 87.63) (size 34.29 32.385) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7a5002df-20cd-49c3-ad58-467ace84f5a6)
+    (property "Sheetname" "Communication" (at 113.665 86.9184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "coms.kicad_sch" (at 113.665 120.5996 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Switch Board"
+        (path "/cf4d5b8c-964c-4533-be8a-d65bf1506e2a" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 111.125 42.545) (size 36.195 34.925) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 856086b7-7166-40d7-95be-7b0f94b4a089)
+    (property "Sheetname" "mcu" (at 111.125 41.8334 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "mcu.kicad_sch" (at 111.125 78.0546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Switch Board"
+        (path "/cf4d5b8c-964c-4533-be8a-d65bf1506e2a" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
